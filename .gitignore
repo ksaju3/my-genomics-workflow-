@@ -1,0 +1,7 @@
+# Nextflow runtime artifacts
+.nextflow*
+work/
+*.log
+
+# Raw SRA folders (if any)
+SRR1205095/
